@@ -149,6 +149,16 @@
       "description": "Advanced filtration system for aquariums.",
       "stock": 25,
       "image": "https://example.com/fishtankfilter.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Fish Food",
+      "animal_type": "fish",
+      "category": "Food & Snacks",
+      "price": 39.99,
+      "description": "Fish food.",
+      "stock": 25,
+      "image": "https://example.com/fishtankfilter.jpg"
     }
   ]
 }
