@@ -1,33 +1,154 @@
 {
-  "projects": [
+  "products": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "Premium Dog Food",
+      "animal_type": "dogs",
+      "category": "Food & Snacks",
+      "price": 25.99,
+      "description": "High-protein dry food for adult dogs.",
+      "stock": 50,
+      "image": "https://example.com/dogfood1.jpg"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "Cat Scratching Post",
+      "animal_type": "cats",
+      "category": "Accessories & Furniture",
+      "price": 34.99,
+      "description": "Durable scratching post with sisal rope.",
+      "stock": 30,
+      "image": "https://example.com/scratchingpost.jpg"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "Tropical Fish Flakes",
+      "animal_type": "fish",
+      "category": "Food & Snacks",
+      "price": 12.99,
+      "description": "Nutrient-rich flakes for tropical fish.",
+      "stock": 80,
+      "image": "https://example.com/fishflakes.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bird Seed Mix",
+      "animal_type": "birds",
+      "category": "Food & Snacks",
+      "price": 9.99,
+      "description": "Healthy seed mix for parakeets and finches.",
+      "stock": 60,
+      "image": "https://example.com/birdseed.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hamster Wheel",
+      "animal_type": "small pets",
+      "category": "Toys & Enrichment",
+      "price": 19.99,
+      "description": "Silent running wheel for hamsters.",
+      "stock": 40,
+      "image": "https://example.com/hamsterwheel.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dog Chew Toy",
+      "animal_type": "dogs",
+      "category": "Toys & Enrichment",
+      "price": 14.99,
+      "description": "Durable rubber chew toy for dogs.",
+      "stock": 70,
+      "image": "https://example.com/dogchewtoy.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Cat Litter Box",
+      "animal_type": "cats",
+      "category": "Grooming & Hygiene",
+      "price": 29.99,
+      "description": "Covered litter box for easy cleaning.",
+      "stock": 25,
+      "image": "https://example.com/catlitterbox.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Fish Tank Heater",
+      "animal_type": "fish",
+      "category": "Accessories & Furniture",
+      "price": 22.99,
+      "description": "Submersible heater for tropical fish tanks.",
+      "stock": 35,
+      "image": "https://example.com/fishtankheater.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Bird Bath",
+      "animal_type": "birds",
+      "category": "Accessories & Furniture",
+      "price": 18.99,
+      "description": "Hanging bath for pet birds.",
+      "stock": 45,
+      "image": "https://example.com/birdbath.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Guinea Pig Hideout",
+      "animal_type": "small pets",
+      "category": "Accessories & Furniture",
+      "price": 24.99,
+      "description": "Cozy wooden hideout for guinea pigs.",
+      "stock": 20,
+      "image": "https://example.com/guineapighideout.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Dog Shampoo",
+      "animal_type": "dogs",
+      "category": "Grooming & Hygiene",
+      "price": 15.99,
+      "description": "Gentle shampoo for dogs with sensitive skin.",
+      "stock": 40,
+      "image": "https://example.com/dogshampoo.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Cat Climbing Tree",
+      "animal_type": "cats",
+      "category": "Accessories & Furniture",
+      "price": 79.99,
+      "description": "Multi-level climbing tree for cats.",
+      "stock": 15,
+      "image": "https://example.com/catclimbingtree.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Bird Cage Cleaner",
+      "animal_type": "birds",
+      "category": "Grooming & Hygiene",
+      "price": 10.99,
+      "description": "Non-toxic cleaner for bird cages.",
+      "stock": 55,
+      "image": "https://example.com/birdcagecleaner.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Hamster Food Mix",
+      "animal_type": "small pets",
+      "category": "Food & Snacks",
+      "price": 8.99,
+      "description": "Balanced diet mix for hamsters.",
+      "stock": 65,
+      "image": "https://example.com/hamsterfood.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Fish Tank Filter",
+      "animal_type": "fish",
+      "category": "Healthcare",
+      "price": 39.99,
+      "description": "Advanced filtration system for aquariums.",
+      "stock": 25,
+      "image": "https://example.com/fishtankfilter.jpg"
     }
   ]
 }
