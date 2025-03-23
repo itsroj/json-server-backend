@@ -240,7 +240,7 @@
   "price": 14.99,
   "description": "A set of plush catnip-filled toys designed to entertain and stimulate cats. Made from durable, pet-safe materials.",
   "stock": 40,
-  "image": "https://example.com/catniptoyset.jpg" 81LS3Yv219L._AC_SL1500_.jpg"
+  "image": "https://m.media-amazon.com/images/I/81LS3Yv219L._AC_SL1500_.jpg"
 },
 {
   "id": 25,
@@ -418,7 +418,7 @@
   "animal_type": "fish",
   "category": "Grooming & Hygiene",
   "price": 22.99,
-  "description": ""An easy-to-use gravel cleaner for fish tanks, helping to maintain a clean and healthy aquarium environment. Removes debris and excess food while preserving beneficial bacteria.",
+  "description": "An easy-to-use gravel cleaner for fish tanks, helping to maintain a clean and healthy aquarium environment. Removes debris and excess food while preserving beneficial bacteria.",
   "stock": 18,
   "image": "https://m.media-amazon.com/images/I/71Qaz0IzZCL._AC_SL1500_.jpg"
 },
