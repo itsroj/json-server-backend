@@ -932,6 +932,149 @@
       "description": "A gentle, hypoallergenic shampoo formulated for cats with sensitive skin, leaving their fur soft and clean.",
       "stock": 30,
       "image": "https://m.media-amazon.com/images/I/61dTIVtxmGL._AC_UF1000,1000_QL80_.jpg"
-    }
-  ]
+    },
+    {
+      "id": 94,
+      "name": "Interactive Treat Dispensing Ball",
+      "animal_type": "dogs",
+      "category": "Toys & Enrichment",
+      "price": 18.50,
+      "description": "A fun ball toy that dispenses treats as your dog plays, encouraging active engagement and mental stimulation.",
+      "stock": 30,
+      "image": "https://m.media-amazon.com/images/I/71VglhRkR2L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 95,
+      "name": "Plush Squeaky Duck Toy",
+      "animal_type": "dogs",
+      "category": "Toys & Enrichment",
+      "price": 9.99,
+      "description": "Soft and cuddly plush duck with a squeaker inside, perfect for dogs who love to carry toys around.",
+      "stock": 50,
+      "image": "https://m.media-amazon.com/images/I/81-FRAyZd-L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 96,
+      "name": "Rope Tug-of-War Toy",
+      "animal_type": "dogs",
+      "category": "Toys & Enrichment",
+      "price": 14.75,
+      "description": "A strong and durable rope toy ideal for tug-of-war and interactive play with your dog.",
+      "stock": 25,
+      "image": "https://m.media-amazon.com/images/I/81a7kG6UQBL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 97,
+      "name": "Automatic Ball Launcher",
+      "animal_type": "dogs",
+      "category": "Toys & Enrichment",
+      "price": 49.99,
+      "description": "An automatic ball launcher that keeps your dog entertained by throwing balls at different distances.",
+      "stock": 15,
+      "image": "https://automatic-ball-launcher-for-dogs-ball-thrower-interactive-dog-toy-332859_500x.jpg"
+    },
+  {
+      "id": 98,
+      "name": "Floating Mirror Fish Toy",
+      "animal_type": "fish",
+      "category": "Toys & Enrichment",
+      "price": 8.99,
+      "description": "A floating mirror that encourages natural territorial behavior and interaction among fish.",
+      "stock": 30,
+      "image": "https://m.media-amazon.com/images/I/71sM3L2FzXL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 99,
+      "name": "LED Bubbling Volcano Ornament",
+      "animal_type": "fish",
+      "category": "Toys & Enrichment",
+      "price": 22.50,
+      "description": "An aquarium decoration that releases bubbles and features LED lights for an interactive experience.",
+      "stock": 20,
+      "image": "https://m.media-amazon.com/images/I/81y7PAXKMuL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 100,
+      "name": "Floating Log Hideout",
+      "animal_type": "fish",
+      "category": "Toys & Enrichment",
+      "price": 15.99,
+      "description": "A realistic floating log that provides fish with a fun hiding and swimming space.",
+      "stock": 40,
+      "image": "https://m.media-amazon.com/images/I/81yCklls+LL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 101,
+      "name": "Colorful Spinning Water Wheel",
+      "animal_type": "fish",
+      "category": "Toys & Enrichment",
+      "price": 12.75,
+      "description": "An interactive water wheel that spins with the aquarium's water flow, providing entertainment for fish.",
+      "stock": 35,
+      "image": "https://m.media-amazon.com/images/I/71Kf1T0mRLL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Glowing Jellyfish Ornament",
+      "animal_type": "fish",
+      "category": "Toys & Enrichment",
+      "price": 17.99,
+      "description": "A silicone jellyfish that glows under aquarium lights and moves naturally in the water.",
+      "stock": 25,
+      "image": "https://m.media-amazon.com/images/I/71wU2YlMLeL._AC_SL1500_.jpg"
+    },
+  
+  {
+      "id": 103,
+      "name": "Automatic Dog Feeder with Timer",
+      "animal_type": "dogs",
+      "category": "Accessories & Furniture",
+      "price": 49.99,
+      "description": "An automatic feeder with a programmable timer to ensure your dog is fed on schedule.",
+      "stock": 15,
+      "image": "https://m.media-amazon.com/images/I/71p3pCBJp4L._AC_SL1500_.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Slow Feeder Bowl for Dogs",
+      "animal_type": "dogs",
+      "category": "Accessories & Furniture",
+      "price": 18.99,
+      "description": "A slow-feeding bowl designed to prevent gulping and improve digestion in dogs.",
+      "stock": 25,
+      "image": "https://m.media-amazon.com/images/I/81KrKQmPtuL._AC_SL1500_.jpg"
+    },
+  {
+    "id": 105,
+    "name": "Stainless Steel Dog Food Bowl",
+    "animal_type": "dogs",
+    "category": "Accessories & Furniture",
+    "price": 12.99,
+    "description": "A durable stainless steel food bowl with a non-slip base, perfect for daily meals.",
+    "stock": 30,
+    "image": "https://m.media-amazon.com/images/I/71bFjR66v8L._AC_SL1500_.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Smart Automatic Cat Feeder",
+    "animal_type": "cats",
+    "category": "Accessories & Furniture",
+    "price": 59.99,
+    "description": "A smart automatic feeder with portion control and a timer to keep your cat well-fed even when you're away.",
+    "stock": 15,
+    "image": "https://m.media-amazon.com/images/I/71PpTwXjefL._AC_SL1500_.jpg"
+  },
+
+  {
+    "id": 107,
+    "name": "Ceramic Cat Food Bowl",
+    "animal_type": "cats",
+    "category": "Accessories & Furniture",
+    "price": 14.99,
+    "description": "A stylish, non-toxic ceramic food bowl designed to prevent whisker fatigue and keep your cat comfortable.",
+    "stock": 25,
+    "image": "https://m.media-amazon.com/images/I/61mMJ0MWJ5L._AC_SL1500_.jpg"
+  
+}
+]
 }
