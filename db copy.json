@@ -1,0 +1,1134 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Premium Dog Food",
+        "animal_type": "dogs",
+        "category": "Food & Snacks",
+        "price": 25.99,
+        "description": "A high-quality dry food formulated for adult dogs. Packed with protein, essential vitamins, and minerals to support energy levels, muscle development, and a shiny coat. Ideal for daily feeding and easy digestion.",
+        "stock": 50,
+        "image": "https://www.exclusivepetfood.com/getmedia/b3982c1b-caa4-44e3-a417-c6495487d6b3/2020_Exclusive_AllLife_30lb_Front_NOWEIGHT.png?width=300&height=439&ext=.png"
+      },
+      {
+        "id": 2,
+        "name": "Cat Scratching Post",
+        "animal_type": "cats",
+        "category": "Accessories & Furniture",
+        "price": 34.99,
+        "description": "A durable scratching post wrapped in sisal rope, designed to satisfy your cat’s natural scratching instincts. Helps protect furniture while providing entertainment and exercise for your pet.",
+        "stock": 30,
+        "image": "https://pioneerpet.com/wp-content/uploads/2013/03/AZ_Scratching-Post_2023-1500x1500_01.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Bird Seed Mix",
+        "animal_type": "birds",
+        "category": "Food & Snacks",
+        "price": 9.99,
+        "description": "A premium blend of seeds and grains specially formulated for parakeets and finches. Supports healthy feathers, strong beaks, and overall well-being. Free from artificial additives.",
+        "stock": 60,
+        "image": "https://m.media-amazon.com/images/I/61Q3VednaJL._AC_SL1000_.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Hamster Wheel",
+        "animal_type": "small pets",
+        "category": "Toys & Enrichment",
+        "price": 19.99,
+        "description": "A silent, durable exercise wheel designed for hamsters. Provides essential physical activity while ensuring a quiet experience for owners. Made from safe, non-toxic materials.",
+        "stock": 40,
+        "image": "https://i.etsystatic.com/21646732/r/il/7f4162/4918078732/il_1588xN.4918078732_lwwj.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Dog Chew Toy",
+        "animal_type": "dogs",
+        "category": "Toys & Enrichment",
+        "price": 14.99,
+        "description": "A tough and durable chew toy made from natural rubber, designed to withstand aggressive chewing. Helps clean teeth, massage gums, and reduce destructive behavior. Ideal for dogs of all sizes.",
+        "stock": 70,
+        "image": "https://www.nylabone.com/-/media/project/oneweb/nylabone/images/our-products/all-products/nccfb701p/018214847700-nylabone-chill-and-chew-treat-toy-wolf-inpackagingfront.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Cat Litter Box",
+        "animal_type": "cats",
+        "category": "Grooming & Hygiene",
+        "price": 29.99,
+        "description": "A covered litter box that provides privacy for your cat while containing odors. Features a removable lid for easy cleaning and a built-in carbon filter for freshness. Suitable for all cat breeds.",
+        "stock": 25,
+        "image": "https://cdn.shopify.com/s/files/1/1511/7434/files/blog-BreezeLitterSystem_0b592ed5-8c98-41ad-8ffb-4ba47c1bb95f_1024x1024.jpg?v=1719912148"
+      },
+      {
+        "id": 8,
+        "name": "Fish Tank Heater",
+        "animal_type": "fish",
+        "category": "Accessories & Furniture",
+        "price": 22.99,
+        "description": "A high-quality submersible heater designed to maintain a stable water temperature in tropical fish tanks. Features an adjustable thermostat, automatic shut-off, and shatter-resistant glass construction.",
+        "stock": 35,
+        "image": "https://s.alicdn.com/@sc04/kf/H43be6afa99694e43a9744a6d2d25cb40I.jpg_720x720q50.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Bird Bath",
+        "animal_type": "birds",
+        "category": "Accessories & Furniture",
+        "price": 18.99,
+        "description": "A stylish and functional hanging bird bath, perfect for keeping pet birds clean and hydrated. Made from durable, easy-to-clean materials, with a secure hanging hook for stable placement.",
+        "stock": 45,
+        "image": "https://m.media-amazon.com/images/I/71NgxUBOjPL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Guinea Pig Hideout",
+        "animal_type": "small pets",
+        "category": "Accessories & Furniture",
+        "price": 24.99,
+        "description": "A cozy wooden hideout designed for guinea pigs and other small pets. Provides a safe and comfortable retreat, reducing stress and promoting natural burrowing behavior. Made from pet-safe, chew-resistant materials.",
+        "stock": 20,
+        "image": "https://i.ebayimg.com/images/g/cwMAAOSw5V5m6-oZ/s-l1200.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Dog Shampoo",
+        "animal_type": "dogs",
+        "category": "Grooming & Hygiene",
+        "price": 15.99,
+        "description": "A gentle, hypoallergenic shampoo formulated for dogs with sensitive skin. Cleans thoroughly while maintaining natural skin moisture, reducing itching and irritation. Free from harsh chemicals and artificial fragrances.",
+        "stock": 40,
+        "image": "https://buddycare.co.uk/cdn/shop/files/OATMEAL.jpg?v=1737726894&width=1500"
+      },
+      {
+        "id": 12,
+        "name": "Cat Climbing Tree",
+        "animal_type": "cats",
+        "category": "Accessories & Furniture",
+        "price": 79.99,
+        "description": "A multi-level climbing tree designed to entertain and exercise cats. Features sisal-covered scratching posts, cozy hideouts, and perches for relaxing. Sturdy and easy to assemble.",
+        "stock": 15,
+        "image": "https://m.media-amazon.com/images/I/71fSTgjWZzL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Bird Cage Cleaner",
+        "animal_type": "birds",
+        "category": "Grooming & Hygiene",
+        "price": 10.99,
+        "description": "A powerful yet non-toxic cleaner specifically designed for bird cages. Effectively removes stains, odors, and bacteria while being safe for birds. Free from harsh chemicals and easy to use.",
+        "stock": 55,
+        "image": "https://images.meesho.com/images/products/186007430/rfi8l_512.webp"
+      },
+      {
+        "id": 14,
+        "name": "Hamster Food Mix",
+        "animal_type": "small pets",
+        "category": "Food & Snacks",
+        "price": 8.99,
+        "description": "A nutritious and balanced food mix for hamsters, enriched with essential vitamins, minerals, and natural ingredients. Supports healthy digestion, strong teeth, and overall vitality.",
+        "stock": 65,
+        "image": "https://www.rodipet.co.uk/shop/images/products/main/23926.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Fish Tank Filter",
+        "animal_type": "fish",
+        "category": "Healthcare",
+        "price": 39.99,
+        "description": "An advanced aquarium filtration system that ensures crystal-clear water. Removes debris, harmful chemicals, and impurities while maintaining a healthy aquatic environment. Energy-efficient and easy to install.",
+        "stock": 25,
+        "image": "https://rukminim2.flixcart.com/image/850/1000/l1b1oy80/aquarium-filter/x/m/k/100-bl-series-3-in-1-internal-filter-for-aquarium-fish-tank-will-original-imagcwzzu5ayazr5.jpeg?q=20&crop=false"
+      },
+      {
+        "id": 16,
+        "name": "Fish Food",
+        "animal_type": "fish",
+        "category": "Food & Snacks",
+        "price": 39.99,
+        "description": "A complete nutritional fish food, containing all essential nutrients, vitamins, and minerals. Suitable for various aquarium fish, promoting bright colors and strong immunity. Softens quickly in water without polluting the tank.",
+        "stock": 25,
+        "image": "https://m.media-amazon.com/images/I/81hj1K8cU6L._AC_SL1500_.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Dog Training Pads",
+        "animal_type": "dogs",
+        "category": "Grooming & Hygiene",
+        "price": 19.99,
+        "description": "Super absorbent training pads for dogs, designed to prevent leaks and control odors. Perfect for puppies and indoor dogs. Quick-drying and easy to dispose of.",
+        "stock": 50,
+        "image": "https://www.kroger.com/product/images/large/front/0075103567650"
+      },
+      {
+        "id": 18,
+        "name": "Cat Grooming Brush",
+        "animal_type": "cats",
+        "category": "Grooming & Hygiene",
+        "price": 12.99,
+        "description": "A gentle yet effective grooming brush for cats, designed to remove loose fur, dirt, and dander while promoting a healthy, shiny coat. Ergonomic handle for easy use.",
+        "stock": 40,
+        "image": "https://m.media-amazon.com/images/I/71qfz1I1S+L._SL1500_.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Parrot Hanging Toy Set",
+        "animal_type": "birds",
+        "category": "Toys & Enrichment",
+        "price": 22.99,
+        "description": "A colorful and engaging toy set for parrots, designed to encourage physical activity and mental stimulation. Made from safe, non-toxic materials.",
+        "stock": 35,
+        "image": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/55e3165c9a56d38ec76c05ce16b11e3a.jpg?imageView2/2/w/800/q/70/format/webp"
+      },
+      {
+        "id": 20,
+        "name": "Turtle Basking Platform",
+        "animal_type": "small pets",
+        "category": "Accessories & Furniture",
+        "price": 29.99,
+        "description": "A floating basking platform for turtles, designed to provide a comfortable and secure resting area. Made from durable, non-toxic materials.",
+        "stock": 25,
+        "image": "https://i.ebayimg.com/images/g/lNAAAOSwwwJmDlff/s-l1600.jpg"
+      },
+      {
+        "id": 21,
+        "name": "Rabbit Hay Feeder",
+        "animal_type": "small pets",
+        "category": "Accessories & Furniture",
+        "price": 18.99,
+        "description": "A convenient hay feeder for rabbits, ensuring fresh hay is available while reducing mess. Made from safe, chew-resistant materials.",
+        "stock": 30,
+        "image": "https://m.media-amazon.com/images/I/71pcLvalGgL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Aquarium LED Light",
+        "animal_type": "fish",
+        "category": "Accessories & Furniture",
+        "price": 34.99,
+        "description": "A waterproof LED lighting system for aquariums, designed to enhance the beauty of fish tanks while promoting plant growth. Adjustable brightness and energy-efficient.",
+        "stock": 20,
+        "image": "https://i0.wp.com/aquaristhubuae.com/wp-content/uploads/2023/02/hygger-submersible-aquarium-led-light-005-4-2-600x600-1.jpg?fit=600%2C600&ssl=1"
+      },
+      {
+        "id": 23,
+        "name": "Dog Cooling Mat",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 32.99,
+        "description": "A pressure-activated cooling mat for dogs, perfect for hot weather. Provides instant cooling without refrigeration or electricity. Lightweight and portable.",
+        "stock": 25,
+        "image": "https://petsdeservemore.com/cdn/shop/products/Ubcc384ae8dfd4dac9052a6743c78b162P_8a0fa1d7-3653-4cf7-bb27-4228046cf18e_1024x1024.jpg?v=1657775565"
+      },
+      {
+        "id": 24,
+        "name": "Catnip Toy Set",
+        "animal_type": "cats",
+        "category": "Toys & Enrichment",
+        "price": 14.99,
+        "description": "A set of plush catnip-filled toys designed to entertain and stimulate cats. Made from durable, pet-safe materials.",
+        "stock": 40,
+        "image": "https://m.media-amazon.com/images/I/81LS3Yv219L._AC_SL1500_.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Automatic Fish Feeder",
+        "animal_type": "fish",
+        "category": "Accessories & Furniture",
+        "price": 27.99,
+        "description": "An automatic fish feeder with programmable feeding schedules. Ideal for busy pet owners and vacation use.",
+        "stock": 20,
+        "image": "https://www.petzlifeworld.in/cdn/shop/files/71QgrHXqEfL._SX522.jpg?v=1709569163&width=1426"
+      },
+      {
+        "id": 26,
+        "name": "Bird Swing Perch",
+        "animal_type": "birds",
+        "category": "Accessories & Furniture",
+        "price": 16.99,
+        "description": "A fun and interactive swing perch for pet birds, helping to keep them active and entertained.",
+        "stock": 35,
+        "image": "https://m.media-amazon.com/images/I/61WVACagmYL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 27,
+        "name": "Reptile Water Dish",
+        "animal_type": "small pets",
+        "category": "Accessories & Furniture",
+        "price": 14.99,
+        "description": "A natural-looking water dish designed for reptiles. Made from durable, non-toxic materials, ensuring easy cleaning.",
+        "stock": 40,
+        "image": "https://m.media-amazon.com/images/I/818ZDZg8S6L._AC_SL1500_.jpg"
+      },
+      {
+        "id": 28,
+        "name": "Rabbit Play Tunnel",
+        "animal_type": "small pets",
+        "category": "Toys & Enrichment",
+        "price": 21.99,
+        "description": "A collapsible play tunnel for rabbits, guinea pigs, and ferrets. Provides a fun and engaging hiding place.",
+        "stock": 30,
+        "image": "https://m.media-amazon.com/images/I/8120FYeCa+L._AC_SL1500_.jpg"
+      },
+      {
+        "id": 29,
+        "name": "Turtle Food Pellets",
+        "animal_type": "small pets",
+        "category": "Food & Snacks",
+        "price": 12.99,
+        "description": "High-nutrient food pellets for turtles, promoting healthy shell growth and strong immunity.",
+        "stock": 50,
+        "image": "https://images-cdn.ubuy.co.in/635a41810098d43c8a4d5732-zoo-med-natural-aquatic-turtle-food.jpg"
+      },
+      {
+        "id": 30,
+        "name": "Hamster Climbing Ladder",
+        "animal_type": "small pets",
+        "category": "Toys & Enrichment",
+        "price": 10.99,
+        "description": "A wooden climbing ladder designed for hamsters and small rodents. Encourages exercise and natural play behaviors.",
+        "stock": 45,
+        "image": "https://m.media-amazon.com/images/I/81MTH3S-9ES._AC_SL1500_.jpg"
+      },
+      {
+        "id": 31,
+        "name": "Dog Winter Coat",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 39.99,
+        "description": "A waterproof and insulated winter coat for dogs, providing warmth and protection against harsh weather.",
+        "stock": 20,
+        "image": "https://k9apparel.com/cdn/shop/files/Whippet_Winter_Coat-_Baked_Clay_900x.png?v=1724987462"
+      },
+      {
+        "id": 32,
+        "name": "Cat Window Perch",
+        "animal_type": "cats",
+        "category": "Accessories & Furniture",
+        "price": 26.99,
+        "description": "A sturdy and comfortable window perch for cats, allowing them to lounge and observe their surroundings.",
+        "stock": 25,
+        "image": "https://m.media-amazon.com/images/I/81yDhWsLsfL.jpg"
+      },
+      {
+        "id": 33,
+        "name": "Dog Training Treats",
+        "animal_type": "dogs",
+        "category": "Food & Snacks",
+        "price": 9.99,
+        "description": "Tasty and healthy training treats for dogs, made with natural ingredients to encourage good behavior.",
+        "stock": 50,
+        "image": "https://naturalis-barf.de/media/27/fb/b7/1737403253/Rind-Tte-500-Zutaten-Napf-800-2025.jpg?ts=1737403253"
+      },
+      {
+        "id": 34,
+        "name": "Cat Self-Grooming Brush",
+        "animal_type": "cats",
+        "category": "Grooming & Hygiene",
+        "price": 15.99,
+        "description": "A self-grooming brush that attaches to walls and corners, allowing cats to groom themselves effortlessly.",
+        "stock": 30,
+        "image": "https://i.ebayimg.com/images/g/iBcAAOSwOyJlgVo9/s-l960.jpg"
+      },
+      {
+        "id": 35,
+        "name": "Aquarium LED Light",
+        "animal_type": "fish",
+        "category": "Accessories & Furniture",
+        "price": 29.99,
+        "description": "Energy-efficient LED light for aquariums, enhancing the colors of fish and aquatic plants.",
+        "stock": 20,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSHI_B5Rm_MJ_Lz3yznUnRmfKPNUfNN0SpITHUYJK4eEKM-cNg4qzpCsexKbQ"
+      },
+      {
+        "id": 36,
+        "name": "Parrot Chew Toy Set",
+        "animal_type": "birds",
+        "category": "Toys & Enrichment",
+        "price": 18.99,
+        "description": "A set of colorful, durable chew toys for parrots, designed to keep them entertained and prevent boredom. Made from non-toxic materials, these toys help maintain beak health and reduce stress in pet birds.",
+        "stock": 25,
+        "image": "https://m.media-amazon.com/images/I/71oW1cUWzJL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 37,
+        "name": "Reptile Heat Lamp",
+        "animal_type": "small pets",
+        "category": "Accessories & Furniture",
+        "price": 34.99,
+        "description": "A high-quality heat lamp providing essential warmth for reptiles, simulating natural sunlight. Ideal for maintaining the proper temperature in terrariums, ensuring the well-being of lizards, turtles, and snakes.",
+        "stock": 15,
+        "image": "https://m.media-amazon.com/images/I/71qhMX6xDsL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 38,
+        "name": "Guinea Pig Playpen",
+        "animal_type": "small pets",
+        "category": "Accessories & Furniture",
+        "price": 49.99,
+        "description": "A foldable playpen for guinea pigs and small pets, offering a safe and spacious area for playtime. The sturdy mesh walls provide ventilation while keeping pets secure, and it's easy to assemble and store.",
+        "stock": 10,
+        "image": "https://m.media-amazon.com/images/I/81-C2rerOOL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 39,
+        "name": "Hamster Chew Sticks",
+        "animal_type": "small pets",
+        "category": "Food & Snacks",
+        "price": 6.99,
+        "description": "Natural wooden chew sticks for hamsters, promoting dental health and reducing boredom. These all-natural treats help prevent overgrown teeth and provide enrichment for small rodents.",
+        "stock": 60,
+        "image": "https://m.media-amazon.com/images/I/716CnE6DRAL.jpg"
+      },
+      {
+        "id": 40,
+        "name": "Dog Travel Water Bottle",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 19.99,
+        "description": "A portable water bottle for dogs, featuring a built-in drinking bowl for easy hydration on the go. Leak-proof design ensures no spills, making it perfect for outdoor adventures and travel.",
+        "stock": 35,
+        "image": "https://messymutts.ca/cdn/shop/products/MM052G_1copy.png?v=1713462307"
+      },
+      {
+        "id": 41,
+        "name": "Cat Heated Bed",
+        "animal_type": "cats",
+        "category": "Accessories & Furniture",
+        "price": 54.99,
+        "description": "A self-warming cat bed providing cozy comfort for cats during colder months. Features ultra-soft fleece lining and an energy-efficient heating element for optimal warmth.",
+        "stock": 12,
+        "image": "https://m.media-amazon.com/images/I/61JWvh6R-sL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 42,
+        "name": "Fish Tank Gravel Cleaner",
+        "animal_type": "fish",
+        "category": "Grooming & Hygiene",
+        "price": 22.99,
+        "description": "An easy-to-use gravel cleaner for fish tanks, helping to maintain a clean and healthy aquarium environment. Removes debris and excess food while preserving beneficial bacteria.",
+        "stock": 18,
+        "image": "https://m.media-amazon.com/images/I/71Qaz0IzZCL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 43,
+        "name": "Clumping Cat Litter",
+        "animal_type": "cats",
+        "category": "Grooming & Hygiene",
+        "price": 19.99,
+        "description": "Premium clumping cat litter with excellent odor control and low dust. Forms strong, easy-to-scoop clumps, keeping the litter box fresh and clean for longer.",
+        "stock": 50,
+        "image": "https://i5.walmartimages.com/asr/dd603296-688f-4b40-a436-73fe4f094e3e.b0c72b2bc4a60b09a69c294b2595f503.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF"
+      },
+      {
+        "id": 44,
+        "name": "Dog Harness",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 29.99,
+        "description": "Adjustable and comfortable dog harness with reflective strips for safety.",
+        "stock": 40,
+        "image": "https://www.tuffdog.co.uk/wp-content/uploads/2022/01/Untitled-design-2022-10-21T081258.792.png"
+      },
+      {
+        "id": 45,
+        "name": "Bird Cage Liners",
+        "animal_type": "birds",
+        "category": "Grooming & Hygiene",
+        "price": 12.99,
+        "description": "Disposable bird cage liners for easy cleaning and odor control.",
+        "stock": 60,
+        "image": "https://m.media-amazon.com/images/I/618NstQx1NL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 46,
+        "name": "Reptile Substrate Bedding",
+        "animal_type": "small pets",
+        "category": "Accessories & Furniture",
+        "price": 14.99,
+        "description": "Natural coconut fiber bedding for reptiles, providing a comfortable and absorbent environment.",
+        "stock": 30,
+        "image": "https://m.media-amazon.com/images/I/91hPXNUKMAL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 47,
+        "name": "Dog Raincoat",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 34.99,
+        "description": "Waterproof and windproof dog raincoat with adjustable straps.",
+        "stock": 25,
+        "image": "https://m.media-amazon.com/images/I/61Qo-OHaUNL._AC_SL1000_.jpg"
+      },
+      {
+        "id": 48,
+        "name": "Hamster Bedding",
+        "animal_type": "small pets",
+        "category": "Accessories & Furniture",
+        "price": 10.99,
+        "description": "Soft and absorbent bedding for hamsters and other small pets.",
+        "stock": 50,
+        "image": "https://m.media-amazon.com/images/I/81KjF7YZjML._AC_SL1500_.jpg"
+      },
+      {
+        "id": 49,
+        "name": "Cat Collar with Bell",
+        "animal_type": "cats",
+        "category": "Accessories & Furniture",
+        "price": 9.99,
+        "description": "Adjustable cat collar with a safety buckle and a small bell.",
+        "stock": 80,
+        "image": "https://m.media-amazon.com/images/I/81PYyVDtraL._SL1500_.jpg"
+      },
+      {
+        "id": 50,
+        "name": "Odor Control Puppy Pads",
+        "animal_type": "dogs",
+        "category": "Grooming & Hygiene",
+        "price": 22.99,
+        "description": "Highly absorbent puppy training pads with odor control technology.",
+        "stock": 45,
+        "image": "https://m.media-amazon.com/images/I/819ljc6eluS._AC_SL1500_.jpg"
+      },
+      {
+        "id": 51,
+        "name": "Bird Cage Cover",
+        "animal_type": "birds",
+        "category": "Accessories & Furniture",
+        "price": 24.99,
+        "description": "Lightweight and breathable bird cage cover for better sleep and reduced noise.",
+        "stock": 20,
+        "image": "https://m.media-amazon.com/images/I/71Nn72xP1IL._AC_SL1200_.jpg"
+      },
+      {
+        "id": 52,
+        "name": "Turtle Basking Platform",
+        "animal_type": "small pets",
+        "category": "Accessories & Furniture",
+        "price": 18.99,
+        "description": "Floating basking platform for turtles to rest and sunbathe.",
+        "stock": 35,
+        "image": "https://m.media-amazon.com/images/I/811zTulhrSL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 53,
+        "name": "Winter Dog Boots",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 27.99,
+        "description": "Durable and anti-slip winter boots to protect dogs' paws from snow and ice.",
+        "stock": 30,
+        "image": "https://tier-herzen.de/cdn/shop/files/61EamCKr1CL._AC_SL1001.webp?v=1738241267"
+      },
+      {
+        "id": 54,
+        "name": "Cat Litter Deodorizer",
+        "animal_type": "cats",
+        "category": "Grooming & Hygiene",
+        "price": 11.99,
+        "description": "Effective cat litter deodorizer that eliminates odors instantly.",
+        "stock": 60,
+        "image": "https://m.media-amazon.com/images/I/714E3s80EDL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 55,
+        "name": "Dog Flea Collar",
+        "animal_type": "dogs",
+        "category": "Healthcare",
+        "price": 19.99,
+        "description": "Long-lasting flea and tick protection collar for dogs.",
+        "stock": 40,
+        "image": "https://i5.walmartimages.com/seo/Seresto-Vet-Recommended-8-Month-Flea-Tick-Prevention-Collar-for-Large-Dogs-18-lbs_5c9941cb-91a1-4537-b00f-947be276c63f.2efa9bb2551d781d53820e2fa248bc27.jpeg"
+      },
+      {
+        "id": 56,
+        "name": "Cat Grooming Gloves",
+        "animal_type": "cats",
+        "category": "Grooming & Hygiene",
+        "price": 16.99,
+        "description": "Gentle silicone grooming gloves that remove loose fur while petting cats.",
+        "stock": 35,
+        "image": "https://m.media-amazon.com/images/I/71MfkD781yL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 57,
+        "name": "Rabbit Hay Feeder",
+        "animal_type": "small pets",
+        "category": "Accessories & Furniture",
+        "price": 14.99,
+        "description": "Durable and mess-free hay feeder for rabbits and guinea pigs.",
+        "stock": 25,
+        "image": "https://www.asaswood.com/cdn/shop/products/bunnylitterbox_bunnyhayfeedercopy2_be57cd55-14db-4b37-9d1c-03f306710b59.jpg?v=1688466271&width=990"
+      },
+      {
+        "id": 58,
+        "name": "Dog LED Collar",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 22.99,
+        "description": "A rechargeable LED dog collar designed for nighttime visibility and safety. Features adjustable sizing, waterproof material, and long-lasting battery life to keep your pet safe during evening walks.",
+        "stock": 30,
+        "image": "https://m.media-amazon.com/images/I/61sBjXEg+NL._AC_SL1000_.jpg"
+      },
+      {
+        "id": 59,
+        "name": "Multivitamin for Dogs",
+        "animal_type": "dogs",
+        "category": "Healthcare",
+        "price": 19.99,
+        "description": "A daily multivitamin supplement for dogs to support overall health, including immune system strength, joint mobility, and digestive wellness. Contains essential vitamins and minerals.",
+        "stock": 50,
+        "image": "https://m.media-amazon.com/images/I/81TLskUm-RL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 60,
+        "name": "Cat Hairball Relief",
+        "animal_type": "cats",
+        "category": "Healthcare",
+        "price": 14.99,
+        "description": "A tasty gel supplement formulated to reduce hairballs in cats. Supports healthy digestion and prevents excessive shedding, making grooming easier and keeping your pet comfortable.",
+        "stock": 40,
+        "image": "https://m.media-amazon.com/images/I/71Zo0VOk7PL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 61,
+        "name": "Bird Vitamin Drops",
+        "animal_type": "birds",
+        "category": "Healthcare",
+        "price": 12.99,
+        "description": "Liquid vitamin supplement for pet birds to support immune health, feather strength, and overall vitality. Easily mixes with water for daily nutrition.",
+        "stock": 60,
+        "image": "https://www.körnerbude.de/media/image/38/7a/61/Claus_PRIMUS_VITAL_mittel.webp"
+      },
+      {
+        "id": 62,
+        "name": "Fish Water Conditioner",
+        "animal_type": "fish",
+        "category": "Healthcare",
+        "price": 9.99,
+        "description": "An advanced water conditioner that neutralizes harmful chemicals in aquarium water, making it safe for fish. Helps reduce stress and maintains a balanced ecosystem.",
+        "stock": 75,
+        "image": "https://m.media-amazon.com/images/I/81JxAGTkwpL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 63,
+        "name": "Small Pet Vitamin C Drops",
+        "animal_type": "small pets",
+        "category": "Healthcare",
+        "price": 13.99,
+        "description": "Essential vitamin C supplement for guinea pigs and other small pets to support immune function and prevent deficiencies. Easy-to-administer liquid formula.",
+        "stock": 55,
+        "image": "https://shop.vitakraft.de/media/mf_webp/png/media/catalog/product/cache/93dfc1f8e4ef625da96d5d309e826eb1/0/4/04008239251039_C1L1_s02.webp"
+      },
+      {
+        "id": 64,
+        "name": "Dog Hip & Joint Supplement",
+        "animal_type": "dogs",
+        "category": "Healthcare",
+        "price": 24.99,
+        "description": "A glucosamine supplement to support healthy joints in dogs, especially senior pets. Contains chondroitin and MSM to improve mobility and reduce discomfort.",
+        "stock": 30,
+        "image": "https://veddelholzer.com/cdn/shop/files/B08B3VCGCH.MAIN.jpg?v=1706704379"
+      },
+      {
+        "id": 65,
+        "name": "Cat Immune Support",
+        "animal_type": "cats",
+        "category": "Healthcare",
+        "price": 18.99,
+        "description": "A premium immune-boosting supplement for cats, formulated with a powerful blend of antioxidants, vitamins, and natural extracts. Contains vitamin C, vitamin E, beta-glucans, and essential minerals to support immune function, increase resistance to infections, and promote overall vitality. Helps cats maintain optimal health, especially during stress or seasonal changes. Easy-to-administer powder that can be mixed with food for daily immune support. Suitable for cats of all ages, including kittens and seniors.",
+        "stock": 45,
+        "image": "https://reavet.de/media/image/product/891/lg/vitamin-komplex-50g.webp"
+      },
+      {
+        "id": 66,
+        "name": "Reptile Calcium Powder",
+        "animal_type": "small pets",
+        "category": "Healthcare",
+        "price": 11.99,
+        "description": "A high-quality calcium supplement designed specifically for reptiles. Enriched with vitamin D3 to ensure optimal calcium absorption, helping to maintain strong bones and prevent metabolic bone disease. Ideal for turtles, lizards, and other reptiles requiring additional calcium. The fine powder easily adheres to feeder insects or can be sprinkled over food for hassle-free supplementation.",
+        "stock": 35,
+        "image": "https://image.chewy.com/catalog/general/images/flukers-calcium-with-vitamin-d3-indoor-reptile-supplement-4oz-jar/img-16039._AC_SL1200_V1_.jpg"
+      },
+      {
+        "id": 67,
+        "name": "Dog Eye Drops",
+        "animal_type": "dogs",
+        "category": "Healthcare",
+        "price": 15.99,
+        "description": "A gentle, fast-acting eye drop solution to relieve irritation, redness, and dryness in dogs. Formulated with soothing chamomile and anti-inflammatory ingredients to provide comfort and hydration. Helps remove dirt and allergens, reducing the risk of infections. Safe for daily use and suitable for all dog breeds.",
+        "stock": 25,
+        "image": "https://m.media-amazon.com/images/I/71R+QEx5bnL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 68,
+        "name": "Cat Ear Cleaner",
+        "animal_type": "cats",
+        "category": "Healthcare",
+        "price": 14.99,
+        "description": "An effective and gentle ear-cleaning solution designed to remove dirt, wax buildup, and odors in cats. Infused with aloe vera and chamomile to soothe irritation while ensuring deep cleaning. Regular use helps prevent ear infections and maintain optimal ear hygiene. Suitable for kittens and adult cats.",
+        "stock": 50,
+        "image": "https://m.media-amazon.com/images/I/61Lu9QTgpRL._AC_SL1200_.jpg"
+      },
+      {
+        "id": 69,
+        "name": "Bird Feather Conditioner",
+        "animal_type": "birds",
+        "category": "Healthcare",
+        "price": 10.99,
+        "description": "A nourishing spray designed to keep bird feathers soft, shiny, and healthy. Formulated with natural oils and vitamins to prevent dryness, reduce molting stress, and enhance feather quality. Ideal for parrots, canaries, finches, and other pet birds. Easy to apply with a fine mist spray.",
+        "stock": 40,
+        "image": "https://m.media-amazon.com/images/I/71UZePYqtQL._SL1500_.jpg"
+      },
+      {
+        "id": 70,
+        "name": "Hamster Digestive Support",
+        "animal_type": "small pets",
+        "category": "Healthcare",
+        "price": 9.99,
+        "description": "A probiotic supplement designed to aid digestion in hamsters, guinea pigs, and other small pets. Contains beneficial bacteria and prebiotics to support gut health, improve nutrient absorption, and reduce digestive discomfort. Helps prevent bloating and irregular bowel movements. Easy to mix with food for daily digestive support.",
+        "stock": 55,
+        "image": "https://m.media-amazon.com/images/I/71DzK23nRGL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 71,
+        "name": "Dog Skin & Coat Oil",
+        "animal_type": "dogs",
+        "category": "Healthcare",
+        "price": 21.99,
+        "description": "A premium omega-rich oil formulated to promote healthy skin and a shiny coat in dogs. Contains a balanced blend of fish oil, flaxseed oil, and vitamin E to reduce itching, dry skin, and shedding. Supports overall skin health and provides essential nutrients for a glossy, smooth coat. Suitable for dogs of all sizes and breeds.",
+        "stock": 30,
+        "image": "https://s7d2.scene7.com/is/image/PetSmart/5353931?fmt=webp&wid=2800&hei=2800"
+      },
+      {
+        "id": 72,
+        "name": "Cat Dental Treats",
+        "animal_type": "cats",
+        "category": "Healthcare",
+        "price": 12.99,
+        "description": "Crunchy and delicious dental treats formulated to support oral health in cats. Specially designed texture helps reduce plaque and tartar buildup while freshening breath. Enriched with calcium and taurine for strong teeth and gums. A tasty way to maintain daily dental hygiene in cats.",
+        "stock": 60,
+        "image": "https://media.zooplus.com/bilder/6/800/99834_pla_purina_dentalife_taagliche_katzen_zahnpflegesnacks_huhn_6_6.jpg"
+      },
+      {
+        "id": 73,
+        "name": "Reptile Vitamin Spray",
+        "animal_type": "small pets",
+        "category": "Healthcare",
+        "price": 17.99,
+        "description": "An easy-to-use vitamin supplement spray designed to provide essential nutrients for reptiles. Contains a balanced mix of vitamins A, D3, and E to support growth, immune function, and overall well-being. Helps prevent nutritional deficiencies and promotes healthy skin and scales. Simply spray on food or directly into the habitat for effortless supplementation.",
+        "stock": 35,
+        "image": "https://plantoplus.de/cdn/shop/files/2408_Bitterschatz_1_Render.jpg?v=1738150358&width=1646"
+      },
+      {
+        "id": 74,
+        "name": "Fish Vitamin Drops",
+        "animal_type": "fish",
+        "category": "Healthcare",
+        "price": 8.99,
+        "description": "Liquid vitamin drops to enhance fish health and immunity.",
+        "stock": 50,
+        "image": "https://www.garnelio.de/media/image/22/98/c1/VB2-1AjeclXZ1L9MyX.jpg"
+      },
+      {
+        "id": 75,
+        "name": "Aquarium Salt",
+        "animal_type": "fish",
+        "category": "Healthcare",
+        "price": 7.99,
+        "description": "Essential salt mix to promote fish health and prevent disease.",
+        "stock": 60,
+        "image": "https://www.petland.ca/cdn/shop/files/fluval-fluval-aquarium-salt-28846663467110.jpg?v=1692386652"
+      },
+      {
+        "id": 76,
+        "name": "Grain-Free Wet Dog Food",
+        "animal_type": "dogs",
+        "category": "Food & Snacks",
+        "price": 29.99,
+        "description": "A nutritious grain-free wet food made with real meat and wholesome ingredients, perfect for dogs with food sensitivities or allergies.",
+        "stock": 50,
+        "image": "https://gooddogpeople.com/cdn/shop/files/Wellness_8_562x.png?v=1724215814"
+      },
+      {
+        "id": 77,
+        "name": "Organic Cat Food",
+        "animal_type": "cats",
+        "category": "Food & Snacks",
+        "price": 24.99,
+        "description": "An organic and natural dry cat food made from high-quality ingredients, promoting healthy digestion and strong immune support for cats of all ages.",
+        "stock": 40,
+        "image": "https://www.bacterfield.de/media/catalog/product/cache/0bb76a83711b62ed944e5c66b327e336/l/i/live_cat_chicken_2kg_00.jpg"
+      },
+      {
+        "id": 78,
+        "name": "Salmon Wet Cat Food",
+        "animal_type": "cats",
+        "category": "Food & Snacks",
+        "price": 19.99,
+        "description": "A delicious and protein-rich salmon wet food made with real fish, providing omega-3 fatty acids for a healthy coat and heart.",
+        "stock": 55,
+        "image": "https://www.petspremium.de/media/catalog/product/4/2/c/9/42c9ed97ef7d8f4cdf839c47f6edc589909bcba7_WL519617_WildesLand_NF_Katze__Filet_Thunfisch___Lachs_80g_FRONT__4250839519617_1000px_SHD.jpg"
+      },
+      {
+        "id": 79,
+        "name": "Dental Chews for Dogs",
+        "animal_type": "dogs",
+        "category": "Food & Snacks",
+        "price": 15.99,
+        "description": "Tasty dental chews designed to help reduce plaque and tartar buildup while freshening breath, promoting overall dental health in dogs.",
+        "stock": 60,
+        "image": "https://fairtails.de/cdn/shop/products/BumpyBoneveganeHundesnacksbeiFairtails.png?v=1658656190&width=1000"
+      },
+      {
+        "id": 80,
+        "name": "Catnip Chew Toys",
+        "animal_type": "cats",
+        "category": "Toys & Enrichment",
+        "price": 12.99,
+        "description": "Soft and durable chewable toys infused with premium catnip, encouraging play and helping to reduce stress and boredom in cats.",
+        "stock": 50,
+        "image": "https://m.media-amazon.com/images/I/81fPnWSxzbL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 81,
+        "name": "Interactive Feather Toy",
+        "animal_type": "cats",
+        "category": "Toys & Enrichment",
+        "price": 16.99,
+        "description": "An electronic feather toy designed to keep cats entertained and engaged with unpredictable movements that stimulate their hunting instincts.",
+        "stock": 30,
+        "image": "https://m.media-amazon.com/images/I/61eCoC9MVyL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 82,
+        "name": "LED Ball Toy for Cats",
+        "animal_type": "cats",
+        "category": "Toys & Enrichment",
+        "price": 14.99,
+        "description": "A motion-activated LED ball that lights up and moves randomly, keeping cats entertained and active.",
+        "stock": 35,
+        "image": "https://m.media-amazon.com/images/I/61icRNlOirL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 83,
+        "name": "Durable Nylon Dog Leash",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 18.99,
+        "description": "A strong and durable nylon leash with a comfortable handle, designed for daily walks and training sessions.",
+        "stock": 40,
+        "image": "https://toritierwelt.de/wp-content/uploads/2024/11/517234_E_01.jpg"
+      },
+      {
+        "id": 84,
+        "name": "Adjustable Reflective Dog Harness",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 25.99,
+        "description": "A comfortable and adjustable reflective harness providing safety and security during nighttime walks. Designed for small to large dog breeds.",
+        "stock": 25,
+        "image": "https://m.media-amazon.com/images/I/81pb6TG8p3L.jpg"
+      },
+      {
+        "id": 85,
+        "name": "Beef Jerky Dog Treats",
+        "animal_type": "dogs",
+        "category": "Food & Snacks",
+        "price": 14.99,
+        "description": "Natural beef jerky treats rich in protein and essential nutrients for a healthy, happy dog.",
+        "stock": 50,
+        "image": "https://escapure.de/cdn/shop/files/Wild_Soft_Parent.jpg?v=1738154520&width=2000"
+      },
+      {
+        "id": 86,
+        "name": "Chicken & Rice Dry Dog Food",
+        "animal_type": "dogs",
+        "category": "Food & Snacks",
+        "price": 31.99,
+        "description": "A nutritious dry food with real chicken and rice, designed for optimal energy and digestion.",
+        "stock": 45,
+        "image": "https://www.harringtonspetfood.com/cdn/shop/files/1.7kg-Core-Chicken-FOP-ISO.png?v=1723737749&width=1600"
+      },
+      {
+        "id": 87,
+        "name": "Lamb & Sweet Potato Dry Dog Food",
+        "animal_type": "dogs",
+        "category": "Food & Snacks",
+        "price": 37.99,
+        "description": "Grain-free dry food with high-quality lamb and sweet potato for sensitive stomachs.",
+        "stock": 30,
+        "image": "https://www.lisasdoghouse.ca/wp-content/uploads/2018/08/Merrick-Lamb.png"
+      },
+      {
+        "id": 88,
+        "name": "Tuna & Chicken Wet Cat Food",
+        "animal_type": "cats",
+        "category": "Food & Snacks",
+        "price": 21.99,
+        "description": "A tasty and nutritious wet cat food blend made with real tuna and chicken, rich in proteins and omega fatty acids.",
+        "stock": 40,
+        "image": "https://www.bello-mieze.de/media/image/product/1428/lg/ropocat-adult-light-gefluegel-100-pures-fleisch-400-g.webp"
+      },
+      {
+        "id": 89,
+        "name": "Grain-Free Turkey Cat Food",
+        "animal_type": "cats",
+        "category": "Food & Snacks",
+        "price": 27.99,
+        "description": "A premium grain-free turkey recipe formulated for cats with food sensitivities and allergies.",
+        "stock": 35,
+        "image": "https://m.media-amazon.com/images/I/61tKUccKhFL._AC_SL1000_.jpg"
+      },
+      {
+        "id": 90,
+        "name": "Freeze-Dried Raw Dog Food",
+        "animal_type": "dogs",
+        "category": "Food & Snacks",
+        "price": 42.99,
+        "description": "Raw, freeze-dried dog food packed with nutrients to support an active and healthy lifestyle.",
+        "stock": 25,
+        "image": "https://media.meisterbarf.de/media/catalog/product/cache/66a06b501795293609a35f6edc5af8c0/a/r/art._8530_strau_enfleisch_stockbarf_verpackt-876e2dcf.webp"
+      },
+      {
+        "id": 91,
+        "name": "Cozy Dog Bed",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 49.99,
+        "description": "A soft and comfortable dog bed with plush cushioning, providing a cozy resting space for dogs of all sizes.",
+        "stock": 20,
+        "image": "https://www.madaboutadog.com/wp-content/uploads/2015/05/sleepy-labrador-enjoying-snoozer-cozy-cave-hot-fudge-.jpg"
+      },
+      {
+        "id": 92,
+        "name": "Orthopedic Dog Bed",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 79.99,
+        "description": "An orthopedic memory foam bed designed to provide optimal support for older dogs or those with joint issues.",
+        "stock": 15,
+        "image": "https://wuffnase.de/cdn/shop/files/Photoroom_20250120_122918.jpg?v=1737373237&width=2048"
+      },
+      {
+        "id": 93,
+        "name": "Hypoallergenic Cat Shampoo",
+        "animal_type": "cats",
+        "category": "Grooming & Hygiene",
+        "price": 12.99,
+        "description": "A gentle, hypoallergenic shampoo formulated for cats with sensitive skin, leaving their fur soft and clean.",
+        "stock": 30,
+        "image": "https://m.media-amazon.com/images/I/61dTIVtxmGL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 94,
+        "name": "Interactive Treat Dispensing Ball",
+        "animal_type": "dogs",
+        "category": "Toys & Enrichment",
+        "price": 18.5,
+        "description": "A fun ball toy that dispenses treats as your dog plays, encouraging active engagement and mental stimulation.",
+        "stock": 30,
+        "image": "https://img.fruugo.com/product/1/08/1636701081_max.jpg"
+      },
+      {
+        "id": 95,
+        "name": "Plush Squeaky Duck Toy",
+        "animal_type": "dogs",
+        "category": "Toys & Enrichment",
+        "price": 9.99,
+        "description": "Soft and cuddly plush duck with a squeaker inside, perfect for dogs who love to carry toys around.",
+        "stock": 50,
+        "image": "https://img.kwcdn.com/product/fancy/0a914639-28c9-45f3-b667-463ce9c616e9.jpg?imageView2/2/w/800/q/70/format/webp"
+      },
+      {
+        "id": 96,
+        "name": "Rope Tug-of-War Toy",
+        "animal_type": "dogs",
+        "category": "Toys & Enrichment",
+        "price": 14.75,
+        "description": "A strong and durable rope toy ideal for tug-of-war and interactive play with your dog.",
+        "stock": 25,
+        "image": "https://m.media-amazon.com/images/I/81p8vX+1CHL.jpg"
+      },
+      {
+        "id": 97,
+        "name": "Automatic Ball Launcher",
+        "animal_type": "dogs",
+        "category": "Toys & Enrichment",
+        "price": 49.99,
+        "description": "An automatic ball launcher that keeps your dog entertained by throwing balls at different distances.",
+        "stock": 15,
+        "image": "https://m.media-amazon.com/images/I/918BekvgcCL._AC_SX679_.jpg"
+      },
+      {
+        "id": 98,
+        "name": "Floating Mirror Fish Toy",
+        "animal_type": "fish",
+        "category": "Toys & Enrichment",
+        "price": 8.99,
+        "description": "A floating mirror that encourages natural territorial behavior and interaction among fish.",
+        "stock": 30,
+        "image": "https://ae01.alicdn.com/kf/S3a4b98648c76486b8201b29b7559aac8b.jpg"
+      },
+      {
+        "id": 99,
+        "name": "LED Bubbling Volcano Ornament",
+        "animal_type": "fish",
+        "category": "Toys & Enrichment",
+        "price": 22.5,
+        "description": "An aquarium decoration that releases bubbles and features LED lights for an interactive experience.",
+        "stock": 20,
+        "image": "https://m.media-amazon.com/images/I/71rINss0DSS.jpg"
+      },
+      {
+        "id": 100,
+        "name": "Floating Log Hideout",
+        "animal_type": "fish",
+        "category": "Toys & Enrichment",
+        "price": 15.99,
+        "description": "A realistic floating log that provides fish with a fun hiding and swimming space.",
+        "stock": 40,
+        "image": "https://m.media-amazon.com/images/I/71NMQeXjVEL.jpg"
+      },
+      {
+        "id": 101,
+        "name": "Colorful Spinning Water Wheel",
+        "animal_type": "fish",
+        "category": "Toys & Enrichment",
+        "price": 12.75,
+        "description": "An interactive water wheel that spins with the aquarium's water flow, providing entertainment for fish.",
+        "stock": 35,
+        "image": "https://i5.walmartimages.com/asr/1d288207-9d47-4e8e-8f9f-08c862958a40.95c40c342670004f56b1d16e797383a8.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+      },
+      {
+        "id": 102,
+        "name": "Glowing Jellyfish Ornament",
+        "animal_type": "fish",
+        "category": "Toys & Enrichment",
+        "price": 17.99,
+        "description": "A silicone jellyfish that glows under aquarium lights and moves naturally in the water.",
+        "stock": 25,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/7194tC0lkcL._AC_SL1000_.jpg"
+      },
+      {
+        "id": 103,
+        "name": "Automatic Dog Feeder with Timer",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 49.99,
+        "description": "An automatic feeder with a programmable timer to ensure your dog is fed on schedule.",
+        "stock": 15,
+        "image": "https://barkwow.com/cdn/shop/files/db1580b8-2be0-482e-b649-b19f235929e9.png?v=1696953046%5C"
+      },
+      {
+        "id": 104,
+        "name": "Slow Feeder Bowl for Dogs",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 18.99,
+        "description": "A slow-feeding bowl designed to prevent gulping and improve digestion in dogs.",
+        "stock": 25,
+        "image": "https://m.media-amazon.com/images/I/71l+BqGUDpL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 105,
+        "name": "Stainless Steel Dog Food Bowl",
+        "animal_type": "dogs",
+        "category": "Accessories & Furniture",
+        "price": 12.99,
+        "description": "A durable stainless steel food bowl with a non-slip base, perfect for daily meals.",
+        "stock": 30,
+        "image": "https://i.ebayimg.com/images/g/njIAAOSwDM5k9kKL/s-l400.jpg"
+      },
+      {
+        "id": 106,
+        "name": "Smart Automatic Cat Feeder",
+        "animal_type": "cats",
+        "category": "Accessories & Furniture",
+        "price": 59.99,
+        "description": "A smart automatic feeder with portion control and a timer to keep your cat well-fed even when you're away.",
+        "stock": 15,
+        "image": "https://m.media-amazon.com/images/I/71xYMFkr6OL._AC_UF894,1000_QL80_.jpg"
+      },
+      {
+        "id": 107,
+        "name": "Ceramic Cat Food Bowl",
+        "animal_type": "cats",
+        "category": "Accessories & Furniture",
+        "price": 14.99,
+        "description": "A stylish, non-toxic ceramic food bowl designed to prevent whisker fatigue and keep your cat comfortable.",
+        "stock": 25,
+        "image": "https://m.media-amazon.com/images/I/71qTm5ZAJ7L.jpg"
+      },
+      {
+        "id": 108,
+        "name": "Small Pet Bath Sand",
+        "animal_type": "small pets",
+        "category": "Grooming & Hygiene",
+        "price": 9.99,
+        "description": "Fine, dust-free bathing sand for small pets like hamsters and gerbils, keeping their fur clean and healthy.",
+        "stock": 50,
+        "image": "https://m.media-amazon.com/images/I/71luV5wWA-S._AC_SL1500_.jpg"
+      },
+      {
+        "id": 109,
+        "name": "Rabbit & Guinea Pig Grooming Brush",
+        "animal_type": "small pets",
+        "category": "Grooming & Hygiene",
+        "price": 12.49,
+        "description": "Gentle grooming brush designed for rabbits and guinea pigs, helping to reduce shedding and maintain a healthy coat.",
+        "stock": 40,
+        "image": "https://www.gosupps.com/media/catalog/product/cache/25/small_image/1500x1650/9df78eab33525d08d6e5fb8d27136e95/7/1/71Of8iWNlRL.jpg"
+      },
+      {
+        "id": 110,
+        "name": "Premium Parrot Food Mix",
+        "animal_type": "birds",
+        "category": "Food & Snacks",
+        "price": 14.99,
+        "description": "A nutritious mix of seeds, nuts, and dried fruits specially formulated for parrots to support their health and energy.",
+        "stock": 45,
+        "image": "https://urban-pets.ca/wp-content/uploads/2020/09/parrot-premium.jpg"
+      },
+      {
+        "id": 111,
+        "name": "Organic Parrot Pellets",
+        "animal_type": "birds",
+        "category": "Food & Snacks",
+        "price": 18.99,
+        "description": "Organic, vitamin-rich pellets for parrots, ensuring a balanced diet with essential nutrients.",
+        "stock": 50,
+        "image": "https://m.media-amazon.com/images/I/815FNp+zHvL.jpg"
+      },
+      {
+        "id": 112,
+        "name": "Premium Goldfish Pellets",
+        "animal_type": "fish",
+        "category": "Food & Snacks",
+        "price": 8.49,
+        "description": "Nutritious sinking pellets specially formulated for goldfish, promoting vibrant colors and healthy growth.",
+        "stock": 50,
+        "image": "https://reef-aquarium-store.com/content/Filemanager/dvh-goldpearls-premium-goldfish-pellets-DVH%20-%20GP-PGP20-127.png"
+      },
+      {
+        "id": 113,
+        "name": "Ocean Flakes Fish Food",
+        "animal_type": "fish",
+        "category": "Food & Snacks",
+        "price": 9.99,
+        "description": "High-quality flake food for all types of aquarium fish, promoting health and vibrant colors.",
+        "stock": 60,
+        "image": "https://www.shop-meeresaquaristik.de/images/product_images/popup_images/3623_0.jpg"
+      },
+      {
+        "id": 114,
+        "name": "Aquarium Fish Cleaning Brush Set",
+        "animal_type": "fish",
+        "category": "Grooming & Hygiene",
+        "price": 12.99,
+        "description": "A set of soft brushes designed to gently clean fish scales and help remove algae buildup without harming the fish.",
+        "stock": 40,
+        "image": "https://i.ebayimg.com/images/g/EloAAOSw~Wpi4RKM/s-l1600.jpg"
+      }
+    ]
+  }

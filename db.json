@@ -21,16 +21,6 @@
       "image": "https://pioneerpet.com/wp-content/uploads/2013/03/AZ_Scratching-Post_2023-1500x1500_01.jpg"
     },
     {
-      "id": 3,
-      "name": "Tropical Fish Flakes",
-      "animal_type": "fish",
-      "category": "Food & Snacks",
-      "price": 12.99,
-      "description": "A balanced diet for tropical fish, rich in proteins, vitamins, and minerals. Enhances vibrant colors, supports immune health, and ensures optimal growth. Does not cloud aquarium water.",
-      "stock": 80,
-      "image": "https://s7d2.scene7.com/is/image/PetSmart/5048232?fmt=webp&wid=2800&hei=2800"
-    },
-    {
       "id": 4,
       "name": "Bird Seed Mix",
       "animal_type": "birds",
@@ -100,7 +90,6 @@
       "stock": 20,
       "image": "https://i.ebayimg.com/images/g/cwMAAOSw5V5m6-oZ/s-l1200.jpg"
     },
-
     {
       "id": 11,
       "name": "Dog Shampoo",
@@ -121,7 +110,6 @@
       "stock": 15,
       "image": "https://m.media-amazon.com/images/I/71fSTgjWZzL._AC_SL1500_.jpg"
     },
-
     {
       "id": 13,
       "name": "Bird Cage Cleaner",
@@ -752,7 +740,6 @@
       "stock": 60,
       "image": "https://www.petland.ca/cdn/shop/files/fluval-fluval-aquarium-salt-28846663467110.jpg?v=1692386652"
     },
-
     {
       "id": 76,
       "name": "Grain-Free Wet Dog Food",
@@ -938,7 +925,7 @@
       "name": "Interactive Treat Dispensing Ball",
       "animal_type": "dogs",
       "category": "Toys & Enrichment",
-      "price": 18.50,
+      "price": 18.5,
       "description": "A fun ball toy that dispenses treats as your dog plays, encouraging active engagement and mental stimulation.",
       "stock": 30,
       "image": "https://img.fruugo.com/product/1/08/1636701081_max.jpg"
@@ -973,7 +960,7 @@
       "stock": 15,
       "image": "https://m.media-amazon.com/images/I/918BekvgcCL._AC_SX679_.jpg"
     },
-  {
+    {
       "id": 98,
       "name": "Floating Mirror Fish Toy",
       "animal_type": "fish",
@@ -988,7 +975,7 @@
       "name": "LED Bubbling Volcano Ornament",
       "animal_type": "fish",
       "category": "Toys & Enrichment",
-      "price": 22.50,
+      "price": 22.5,
       "description": "An aquarium decoration that releases bubbles and features LED lights for an interactive experience.",
       "stock": 20,
       "image": "https://m.media-amazon.com/images/I/71rINss0DSS.jpg"
@@ -1023,8 +1010,7 @@
       "stock": 25,
       "image": "https://images-na.ssl-images-amazon.com/images/I/7194tC0lkcL._AC_SL1000_.jpg"
     },
-  
-  {
+    {
       "id": 103,
       "name": "Automatic Dog Feeder with Timer",
       "animal_type": "dogs",
@@ -1044,107 +1030,117 @@
       "stock": 25,
       "image": "https://m.media-amazon.com/images/I/71l+BqGUDpL._AC_UF1000,1000_QL80_.jpg"
     },
-  {
-    "id": 105,
-    "name": "Stainless Steel Dog Food Bowl",
-    "animal_type": "dogs",
-    "category": "Accessories & Furniture",
-    "price": 12.99,
-    "description": "A durable stainless steel food bowl with a non-slip base, perfect for daily meals.",
-    "stock": 30,
-    "image": "https://i.ebayimg.com/images/g/njIAAOSwDM5k9kKL/s-l400.jpg"
-  },
-  {
-    "id": 106,
-    "name": "Smart Automatic Cat Feeder",
-    "animal_type": "cats",
-    "category": "Accessories & Furniture",
-    "price": 59.99,
-    "description": "A smart automatic feeder with portion control and a timer to keep your cat well-fed even when you're away.",
-    "stock": 15,
-    "image": "https://m.media-amazon.com/images/I/71xYMFkr6OL._AC_UF894,1000_QL80_.jpg"
-  },
+    {
+      "id": 105,
+      "name": "Stainless Steel Dog Food Bowl",
+      "animal_type": "dogs",
+      "category": "Accessories & Furniture",
+      "price": 12.99,
+      "description": "A durable stainless steel food bowl with a non-slip base, perfect for daily meals.",
+      "stock": 30,
+      "image": "https://i.ebayimg.com/images/g/njIAAOSwDM5k9kKL/s-l400.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Smart Automatic Cat Feeder",
+      "animal_type": "cats",
+      "category": "Accessories & Furniture",
+      "price": 59.99,
+      "description": "A smart automatic feeder with portion control and a timer to keep your cat well-fed even when you're away.",
+      "stock": 15,
+      "image": "https://m.media-amazon.com/images/I/71xYMFkr6OL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 107,
+      "name": "Ceramic Cat Food Bowl",
+      "animal_type": "cats",
+      "category": "Accessories & Furniture",
+      "price": 14.99,
+      "description": "A stylish, non-toxic ceramic food bowl designed to prevent whisker fatigue and keep your cat comfortable.",
+      "stock": 25,
+      "image": "https://m.media-amazon.com/images/I/71qTm5ZAJ7L.jpg"
+    },
+    {
+      "id": 108,
+      "name": "Small Pet Bath Sand",
+      "animal_type": "small pets",
+      "category": "Grooming & Hygiene",
+      "price": 9.99,
+      "description": "Fine, dust-free bathing sand for small pets like hamsters and gerbils, keeping their fur clean and healthy.",
+      "stock": 50,
+      "image": "https://m.media-amazon.com/images/I/71luV5wWA-S._AC_SL1500_.jpg"
+    },
+    {
+      "id": 109,
+      "name": "Rabbit & Guinea Pig Grooming Brush",
+      "animal_type": "small pets",
+      "category": "Grooming & Hygiene",
+      "price": 12.49,
+      "description": "Gentle grooming brush designed for rabbits and guinea pigs, helping to reduce shedding and maintain a healthy coat.",
+      "stock": 40,
+      "image": "https://www.gosupps.com/media/catalog/product/cache/25/small_image/1500x1650/9df78eab33525d08d6e5fb8d27136e95/7/1/71Of8iWNlRL.jpg"
+    },
+    {
+      "id": 110,
+      "name": "Premium Parrot Food Mix",
+      "animal_type": "birds",
+      "category": "Food & Snacks",
+      "price": 14.99,
+      "description": "A nutritious mix of seeds, nuts, and dried fruits specially formulated for parrots to support their health and energy.",
+      "stock": 45,
+      "image": "https://urban-pets.ca/wp-content/uploads/2020/09/parrot-premium.jpg"
+    },
+    {
+      "id": 111,
+      "name": "Organic Parrot Pellets",
+      "animal_type": "birds",
+      "category": "Food & Snacks",
+      "price": 18.99,
+      "description": "Organic, vitamin-rich pellets for parrots, ensuring a balanced diet with essential nutrients.",
+      "stock": 50,
+      "image": "https://m.media-amazon.com/images/I/815FNp+zHvL.jpg"
+    },
+    {
+      "id": 112,
+      "name": "Premium Goldfish Pellets",
+      "animal_type": "fish",
+      "category": "Food & Snacks",
+      "price": 8.49,
+      "description": "Nutritious sinking pellets specially formulated for goldfish, promoting vibrant colors and healthy growth.",
+      "stock": 50,
+      "image": "https://reef-aquarium-store.com/content/Filemanager/dvh-goldpearls-premium-goldfish-pellets-DVH%20-%20GP-PGP20-127.png"
+    },
+    {
+      "id": 113,
+      "name": "Ocean Flakes Fish Food",
+      "animal_type": "fish",
+      "category": "Food & Snacks",
+      "price": 9.99,
+      "description": "High-quality flake food for all types of aquarium fish, promoting health and vibrant colors.",
+      "stock": 60,
+      "image": "https://www.shop-meeresaquaristik.de/images/product_images/popup_images/3623_0.jpg"
+    },
+    {
+      "id": 114,
+      "name": "Aquarium Fish Cleaning Brush Set",
+      "animal_type": "fish",
+      "category": "Grooming & Hygiene",
+      "price": 12.99,
+      "description": "A set of soft brushes designed to gently clean fish scales and help remove algae buildup without harming the fish.",
+      "stock": 40,
+      "image": "https://i.ebayimg.com/images/g/EloAAOSw~Wpi4RKM/s-l1600.jpg"
+    },
+    {
+      "name": "test",
+      "image": "https://plus.unsplash.com/premium_photo-1741723515540-16a4e71b7d49?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "category": "",
+      "description": "weg",
+      "price": "1",
+      "animal_type": "",
+      "stock": "1",
+      "id": 115
+    }
+  ],
 
-  {
-    "id": 107,
-    "name": "Ceramic Cat Food Bowl",
-    "animal_type": "cats",
-    "category": "Accessories & Furniture",
-    "price": 14.99,
-    "description": "A stylish, non-toxic ceramic food bowl designed to prevent whisker fatigue and keep your cat comfortable.",
-    "stock": 25,
-    "image": "https://m.media-amazon.com/images/I/71qTm5ZAJ7L.jpg"
-  
-},
-{
-  "id": 108,
-  "name": "Small Pet Bath Sand",
-  "animal_type": "small pets",
-  "category": "Grooming & Hygiene",
-  "price": 9.99,
-  "description": "Fine, dust-free bathing sand for small pets like hamsters and gerbils, keeping their fur clean and healthy.",
-  "stock": 50,
-  "image": "https://m.media-amazon.com/images/I/71luV5wWA-S._AC_SL1500_.jpg"
-},
-{
-  "id": 109,
-  "name": "Rabbit & Guinea Pig Grooming Brush",
-  "animal_type": "small pets",
-  "category": "Grooming & Hygiene",
-  "price": 12.49,
-  "description": "Gentle grooming brush designed for rabbits and guinea pigs, helping to reduce shedding and maintain a healthy coat.",
-  "stock": 40,
-  "image": "https://www.gosupps.com/media/catalog/product/cache/25/small_image/1500x1650/9df78eab33525d08d6e5fb8d27136e95/7/1/71Of8iWNlRL.jpg"
-},
-{
-  "id": 110,
-  "name": "Premium Parrot Food Mix",
-  "animal_type": "birds",
-  "category": "Food & Snacks",
-  "price": 14.99,
-  "description": "A nutritious mix of seeds, nuts, and dried fruits specially formulated for parrots to support their health and energy.",
-  "stock": 45,
-  "image": "https://urban-pets.ca/wp-content/uploads/2020/09/parrot-premium.jpg"
-},
-{
-  "id": 111,
-  "name": "Organic Parrot Pellets",
-  "animal_type": "birds",
-  "category": "Food & Snacks",
-  "price": 18.99,
-  "description": "Organic, vitamin-rich pellets for parrots, ensuring a balanced diet with essential nutrients.",
-  "stock": 50,
-  "image": "https://m.media-amazon.com/images/I/815FNp+zHvL.jpg"
-},
-{
-  "id": 112,
-  "name": "Premium Goldfish Pellets",
-  "animal_type": "fish",
-  "category": "Food & Snacks",
-  "price": 8.49,
-  "description": "Nutritious sinking pellets specially formulated for goldfish, promoting vibrant colors and healthy growth.",
-  "stock": 50,
-  "image": "https://reef-aquarium-store.com/content/Filemanager/dvh-goldpearls-premium-goldfish-pellets-DVH%20-%20GP-PGP20-127.png"
-},
-{
-  "id": 113,
-  "name": "Ocean Flakes Fish Food",
-  "animal_type": "fish",
-  "category": "Food & Snacks",
-  "price": 9.99,
-  "description": "High-quality flake food for all types of aquarium fish, promoting health and vibrant colors.",
-  "stock": 60,
-  "image": "https://www.shop-meeresaquaristik.de/images/product_images/popup_images/3623_0.jpg"
-},
-{
-  "id": 114,
-  "name": "Aquarium Fish Cleaning Brush Set",
-  "animal_type": "fish",
-  "category": "Grooming & Hygiene",
-  "price": 12.99,
-  "description": "A set of soft brushes designed to gently clean fish scales and help remove algae buildup without harming the fish.",
-  "stock": 40,
-  "image": "https://i.ebayimg.com/images/g/EloAAOSw~Wpi4RKM/s-l1600.jpg"
-}
-]
+  "cart": []
 }
